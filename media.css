@@ -1,0 +1,140 @@
+@media only screen and (max-width: 450px) {
+    body{
+        overflow-x: hidden !important;
+    }
+    ul{
+        position: absolute;
+        left: -210%;
+    }
+    .navbar img {
+        top: 0;
+        left: 0;
+    } 
+    #one{
+        width: 100% !important;
+        margin-top: -50px !important;
+    }
+    .left{
+        
+        width: 90% !important;
+        display: block;
+        left: 5% !important;
+    }
+    .right{
+        
+        width: 90% !important;
+        display: block;
+        margin-top: 65% !important;
+        left: 5% !important;
+    }
+    .potolar
+    {
+        flex-direction: column;
+    }
+    .card-foto{
+        width: 90% !important;
+        margin-left: 4.5%;
+    }
+    .card-foto-two{
+        flex-direction: column;
+    }
+    .Rek{
+        width: 100% !important;
+        height: 50px !important;
+    }
+    .search{
+        overflow: hidden !important;
+    }
+    .Markaz-2{
+        margin-top: 1200px !important;
+    }
+    .markaz-2-p{
+        font-size:30px !important;
+    }
+    .markaz-past{
+        font-size: 18px;
+    }
+    .mr-btn{
+        width: 90% !important;
+        margin-left: 20px !important;
+    }
+    .Markaz-3{
+        margin-top: -30px !important;
+        width: 100% !important;
+        flex-direction: column;
+        display: block !important;
+        margin-left: 23px !important;
+    }
+    .markaz-4{
+        display: block;
+        flex-direction: column;
+        width: 100%;
+        float: left;
+        margin-left: 23px !important;
+    }
+    .LALA{
+        margin-top: -40px !important;
+        
+        width: 100% !important;
+    }
+    .LALA .Rek{
+        width: 100% !important;
+    }
+    .hihi {
+        width: 100% !important;
+        margin-top: 140px !important;
+    }
+    
+
+
+
+
+
+
+    .center{
+        margin-top: 800px !important;
+        flex-direction: column !important;
+        width: 100% !important;
+    }
+    .center-left{
+        width: 90% !important;
+        margin: auto !important;
+        height: 500px !important;
+    }
+    .center-center{
+        width: 90% !important;
+        margin: auto !important;
+        height: 500px !important;
+    }
+    .center-right{
+        width: 90% !important;
+        margin: auto !important;
+    }
+
+
+
+
+
+
+
+
+
+
+    footer{
+        flex-direction: column;
+        background: none !important;
+        margin-top: 350px !important;
+    }
+    .foo-ter{
+        width: 90% !important;
+        height: 400px !important;
+        margin: auto;
+        transition: .3s linear;
+        margin-top: 50px;
+    }
+    .foo-ter:hover{
+        transform: scale(1.1);
+        box-shadow: 1px 4px 20px black,
+                    -1px -4px 10px white;
+    }
+}
